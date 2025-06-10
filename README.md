@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimra Shahid</h1>
-<h3 align="center">Cybersecurity Enthusiast | C++ Developer | OSINT Explorer</h3>
+<h3 align="center">Cybersecurity Enthusiast | C++ Developer | Threat Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Cyber+Defense+%7C+Threat+Analysis+%7C+PenTesting;C%2B%2B+%7C+Python+%7C+Linux+%7C+QRadar+%7C+Burp+Suite;Always+learning+%E2%9C%94+Always+breaking+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Cyber+Defense+%7C+Threat+Analysis+%7C+PenTesting;C%2B%2B+%7C+Python+%7C+Linux+%7C+QRadar+%7C+Burp+Suite;%E2%9C%94+Always+breaking+%E2%9C%94" alt="Typing SVG" />
 </p>
 
 ---
